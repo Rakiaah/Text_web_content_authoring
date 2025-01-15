@@ -1,6 +1,6 @@
 # Text_web_content_authoring
 
-#steps for creating my github
+# steps for creating my github
 1.visit GitHub on google.com and click "Sign up."
 
 2. Enter your email, create a username, and set a password.
@@ -17,3 +17,4 @@
 
 
 
+https://github.com/Rakiaah/Text_web_content_authoring.git
